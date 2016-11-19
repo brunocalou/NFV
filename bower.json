@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "material-design-lite": "~1.2.1"
+    "material-design-lite": "~1.2.1",
+    "cheet.js": "~0.3.3"
   }
 }

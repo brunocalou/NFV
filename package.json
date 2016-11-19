@@ -21,6 +21,7 @@
     "vue": "vue/dist/vue"
   },
   "dependencies": {
+    "cheet.js": "^0.3.3",
     "node-sass": "^3.11.1",
     "vue": "^2.0.1"
   },
