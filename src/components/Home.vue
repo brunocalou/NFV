@@ -27,7 +27,7 @@
 
 <script>
 import IntroTab from './IntroTab.vue'
-import HomeFooter from './HomeFooter.vue'
+import HomeFooter from './HomeFooter/HomeFooter.vue'
 import BibliographyTab from './BibliographyTab.vue'
 import AuthorshipSection from './AuthorshipSection.vue'
 

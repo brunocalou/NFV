@@ -9,6 +9,11 @@
 		    </li>
 	    </ul>
 	  </div>
+	  <div class="mdl-mini-footer__right-section">
+	    <a href="https://github.com/brunocalou/NFV" target="_blank">
+	    	<img src="src/components/HomeFooter/GitHub-Mark-Light-32px.png" alt="Github">
+	    </a>
+	  </div>
 	</footer>
 	<footer class="mdl-mega-footer mdl-layout--small-screen-only mdl-color--grey-900">
 		<div class="mdl-mega-footer__middle-section">
@@ -21,6 +26,14 @@
 		    </li>
 		  </ul>
 		</div>
+	</footer>
+
+	<footer class="mdl-mini-footer mdl-layout--small-screen-only mdl-color--grey-900">
+	  <div class="mdl-mini-footer__right-section">
+	    <a href="https://github.com/brunocalou/NFV" target="_blank">
+	    	<img src="src/components/HomeFooter/GitHub-Mark-Light-32px.png" alt="Github">
+	    </a>
+	  </div>
 	</footer>
 </div>
 </template>
