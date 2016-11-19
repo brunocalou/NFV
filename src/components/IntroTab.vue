@@ -3,48 +3,17 @@
   <div class="page-content">
 	<h4>Introdução</h4>
 	<p>
-		Aqui é Body Builder Ipsum PORRA! Eu quero esse 13 daqui a pouquinho aí. É 13 porra! Ó o homem ali porra!, é 13 porra! Aqui nóis constrói fibra, não é água com músculo. Sabe o que é isso daí? Trapézio descendente é o nome disso aí. É 37 anos caralho!
+		Funções de rede (NAT, Firewall, Cache, etc) são implementadas através de equipamentos especializados que combinam software e hardware proprietários para atingir desempenho, estabilidade e disponibilidade necessários para lidar com a demanda. Porém,  os sistemas desenvolvidos com essas tecnologias ficam dependentes do fabricante, pois a migração para equipamentos diferentes requer a necessidade de refatorar por completo completo tais sistemas.
 	</p>
 	<p>
-		Vo derrubar tudo essas árvore do parque ibirapuera. Que não vai dá rapaiz, não vai dá essa porra. É 13 porra! Vai subir árvore é o caralho porra! Não vai dá não. Ele tá olhando pra gente.
+		Os custos de manter um ambiente utilizando equipamentos especializados são enormes, pois há necessidade de comprar e manter vários produtos do mesmo fabricante, que nem sempre se integram facilmente. Além disso, existem os gastos como manutenção, mão-de-obra qualificada, espaço e eletricidade que devem ser levados em conta ao implementar uma tecnologia.
 	</p>
 	<p>
-		Negativa Bambam negativa. Ele tá olhando pra gente. Vai subir árvore é o caralho porra! Ajuda o maluco que tá doente. Tá comigo porra. Vo derrubar tudo essas árvore do parque ibirapuera.
+		Desta forma, foi criada uma alternativa que reduz os imensamente o custo e torna a escalabilidade tão simples quanto apertar um botão. A Virtualização de Funções de Redes ou Network Function Virtualization (NFV) foi criada de forma que um hardware genérico seja capaz de substituir as funções de rede. Desta forma, servidores de uso geral são capazes de realizar todas as funções por meio de software, o que torna o uso de equipamentos proprietários desnecessário.
 	</p>
 	<p>
-		Bora caralho, você quer ver essa porra velho. Vem porra! AHHHHHHHHHHHHHHHHHHHHHH..., porra! Sai de casa comi pra caralho porra. Tá comigo porra. Birl!
+		Com o NFV, servidores podem executar as funções de rede remotamente. Logo, um sistema de rede pode ser criado e expandido em questão de segundos, a um custo muito pequeno. O que antes levava dias e necessitava de uma equipe especializada, equipamento caro e espaço passa a ser feito de forma fácil, ágil e barata. Apesar dos desafios envolvendo questões de desempenho e segurança, a flexibilidade e rapidez obtidas ao utilizar NFV são o que o tornam tão atrativo.
 	</p>
-	<p>
-		Vamo monstro! AHHHHHHHHHHHHHHHHHHHHHH..., porra! Tá comigo porra. É verão o ano todo vem cumpadi. Sai filho da puta! Vem porra!
-	</p>
-	<p>
-		Birl! Vem porra! Sai filho da puta! Vamo monstro! Boraaa, Hora do Show Porra. Eita porra!, tá saindo da jaula o monstro!
-	</p>
-	<p>
-		Vai subir árvore é o caralho porra! Aqui é bodybuilder porra! Não vai dá não. AHHHHHHHHHHHHHHHHHHHHHH..., porra! É esse que a gente quer, é ele que nóis vamo buscar. É 13 porra!
-	</p>
-	<p>
-		Boraaa, Hora do Show Porra. Ó o homem ali porra!, é 13 porra! Birl! Que não vai dá rapaiz, não vai dá essa porra. É esse que a gente quer, é ele que nóis vamo buscar. Eita porra!, tá saindo da jaula o monstro!
-	</p>
-	<p>
-		Ó o homem ali porra!, é 13 porra! Tá comigo porra. Eita porra!, tá saindo da jaula o monstro! Sabe o que é isso daí? Trapézio descendente é o nome disso aí. Que não vai dá rapaiz, não vai dá essa porra. É nóis caraio é trapezera buscando caraio!
-	</p>
-	<p>
-		Tá comigo porra. Boraaa, Hora do Show Porra. Ajuda o maluco que tá doente. É 37 anos caralho! Sai filho da puta! Negativa Bambam negativa.
-	</p>
-	<p>
-		É nóis caraio é trapezera buscando caraio! Sabe o que é isso daí? Trapézio descendente é o nome disso aí. Ele tá olhando pra gente. É 13 porra! Ajuda o maluco que tá doente. AHHHHHHHHHHHHHHHHHHHHHH..., porra!
-	</p>
-	<p>
-		Que não vai dá rapaiz, não vai dá essa porra. Sai filho da puta! É nóis caraio é trapezera buscando caraio! É 13 porra! Aqui é bodybuilder porra! AHHHHHHHHHHHHHHHHHHHHHH..., porra!
-	</p>
-	<p>
-		AHHHHHHHHHHHHHHHHHHHHHH..., porra! Boraaa, Hora do Show Porra. Negativa Bambam negativa. Ó o homem ali porra!, é 13 porra! Birl! Aqui é bodybuilder porra!
-	</p>
-	<p>
-		Sai de casa comi pra caralho porra. Sabe o que é isso daí? Trapézio descendente é o nome disso aí. Vai subir árvore é o caralho porra! Vo derrubar tudo essas árvore do parque ibirapuera. É 37 anos caralho! É 13 porra!
-	</p>
-
   </div>
 </section>
 </template>
