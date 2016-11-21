@@ -1,0 +1,3 @@
+.mdl-app section.section--center{max-width:860px;margin:auto}.mdl-app .mdl-layout__tab-panel{padding:8px;padding-top:48px}
+.easteregg-container{position:fixed;right:0;bottom:0;overflow:hidden;z-index:999;pointer-events:none}.easteregg-container .easteregg{transform:translate(100%);transition:transform .3s}.easteregg-container .easteregg.active{transform:translate(0)}
+#authorship-section section{padding:3em .5em}#authorship-section section *{margin-bottom:0;text-align:center}
