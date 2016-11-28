@@ -8,7 +8,7 @@
 
 	<img src="src/components/VirtualizationTab/image05.png" alt="">
 
-	<p>Sem a virtualização, é necessário uma máquina para rodar cada sistema e, como o sistema não usa todos os recursos disponíveis, uma grande parte deles se torna ocioso, o que desperdiça energia e recursos. A virtualização traz consigo a possibilidade de utilizar recursos de hardware de maneira otimizada, de forma que  vários sistemas podem ser executados no mesmo hardware. Consequentemente, os recursos podem ser alocados dinamicamente para cada sistema, de forma a evitar ociosidade. Além disso, a virtualização permite uma rápida escalabilidade devido à sua natureza “elástica”. Por exemplo, digamos que existam vários sistemas operacionais convidados (guest) em uma mesma máquina, todos virtualizados e controlados pelo hypervisor; Se um dos sistemas exigir mais recursos, como processamento ou memória por exemplo, o <a href="#orchestrator">orquestrador</a> realoca os recursos de forma que esse sistema use os recursos necessários para sua demanda e os outros não sejam prejudicados.</p>
+	<p>Sem a virtualização, é necessário uma máquina para rodar cada sistema e, como o sistema não usa todos os recursos disponíveis, uma grande parte deles se torna ocioso, o que desperdiça energia e recursos. A virtualização traz consigo a possibilidade de utilizar recursos de hardware de maneira otimizada, de forma que  vários sistemas podem ser executados no mesmo hardware. Consequentemente, os recursos podem ser alocados dinamicamente para cada sistema, de forma a evitar ociosidade. Além disso, a virtualização permite uma rápida escalabilidade devido à sua natureza “elástica”. Por exemplo, digamos que existam vários sistemas operacionais convidados (guest) em uma mesma máquina, todos virtualizados e controlados pelo hypervisor; Se um dos sistemas exigir mais recursos, como processamento ou memória por exemplo, é possível realocar os recursos de forma que esse sistema use os recursos necessários para sua demanda e os outros não sejam prejudicados.</p>
 
 	<h4>Funções de Rede Virtualizadas - VNF</h4>
 
@@ -40,7 +40,7 @@
 
 	<p>Mesmo não existindo um padrão para a abstração em NFV, o uso de hypervisors é bem comum. Por exemplo, uma função de rede virtual pode ser executada em uma ou mais máquinas virtuais. Para uma execução eficiente, deve haver conectividade entre as máquinas virtuais. Através dos hypervisors de NFV, é possível criar uma permissividade de acesso direto às funções de rede ou uma comunicação direta entre máquinas virtuais. Várias técnicas são implementadas neste âmbito, tais como VxLANs (Virtual Extensible Local Area Network), NVGRE (Network Virtualization using Generic Routing Encapsulation) e OpenFlow.</p>
 
-	<h4 id="orchestrator">Orquestrador</h4>
+	<h4>Orquestrador</h4>
 
 	<p>Uma vantagem de usar NFV é a entrega de serviços de hardware industrial por meio de software. Este modelo entrega serviços mais rápidos e com mais flexibilidade. Porém, isso gera uma demanda considerável por recursos virtuais, necessitando de um gerenciamento de alto nível para manter a funcionalidade da rede. Este gerenciamento é chamado de orquestração.</p>
 
