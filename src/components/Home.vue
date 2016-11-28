@@ -12,8 +12,9 @@
     <!-- Tabs -->
     <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
       <a href="#intro-tab" class="mdl-layout__tab is-active">Introdução</a>
-      <a href="#virtualization-tab" class="mdl-layout__tab">Virtualiação</a>
+      <a href="#virtualization-tab" class="mdl-layout__tab">Virtualização</a>
       <a href="#challenges-tab" class="mdl-layout__tab">Desafios</a>
+      <a href="#solutions-tab" class="mdl-layout__tab">Soluções</a>
       <a href="#sdn-tab" class="mdl-layout__tab">SDN</a>
       <a href="#bibliography-tab" class="mdl-layout__tab">Bibliografia</a>
     </div>
@@ -23,6 +24,7 @@
     <intro-tab></intro-tab>
     <virtualization-tab></virtualization-tab>
     <challenges-tab></challenges-tab>
+    <solutions-tab></solutions-tab>
     <sdn-tab></sdn-tab>
     <bibliography-tab></bibliography-tab>
     <authorship-section></authorship-section>
@@ -37,13 +39,14 @@ import HomeFooter from './HomeFooter/HomeFooter.vue'
 import BibliographyTab from './BibliographyTab.vue'
 import VirtualizationTab from './VirtualizationTab/VirtualizationTab.vue'
 import ChallengesTab from './ChallengesTab/ChallengesTab.vue'
+import SolutionsTab from './SolutionsTab.vue'
 import SdnTab from './SDNTab/SDNTab.vue'
 import AuthorshipSection from './AuthorshipSection.vue'
 
 export default {
   name: 'home',
   components: {
-    IntroTab, BibliographyTab, HomeFooter, AuthorshipSection, VirtualizationTab, ChallengesTab, SdnTab
+    IntroTab, BibliographyTab, HomeFooter, AuthorshipSection, VirtualizationTab, ChallengesTab, SdnTab, SolutionsTab
   },
   data () {
     return {

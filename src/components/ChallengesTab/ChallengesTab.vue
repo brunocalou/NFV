@@ -3,8 +3,7 @@
 	<div class="page-content">
 		<h4>Desafios</h4>
 		
-		<p>Nesse novo paradigma de redes, o trade-off(conflito de escolha) entre desempenho, flexibilidade e segurança é um dos aspectos principais a serem discutidos na virtualização de funções de rede.
-		</p>
+		<p>Nesse novo paradigma de redes, o trade-off(conflito de escolha) entre desempenho, flexibilidade e segurança é um dos aspectos principais a serem discutidos na virtualização de funções de rede.</p>
 
 		<h5>Desempenho</h5>
 
@@ -12,7 +11,7 @@
 
 		<p>Uma aplicação interessante na estrutura de rede atual é a middlebox. É basicamente um software projetado em hardware específico a fim de oferecer alguma função de rede: firewall, IDS, NAT, etc. Nesse caso, o desempenho é bem alto, afinal a tecnologia é projetada especificamente para tal função. A falta de compatibilidade com camadas superiores é o principal problema dessa aplicação. As tecnologias de virtualização terão, no início, desempenho e comportamento inferior comparado a essas middleboxes. Porém, oferecerão a flexibilidade necessária para fornecer elasticidade às funções de rede.</p>
 
-		<p>A figura X propõe uma análise interessante de desempenho entre diferentes chips quando submetidos a casos de alta complexidade. Em todos os chips, conforme a complexidade de uso cresce, o desempenho de todas as soluções decrescem. Porém, os chipsets de propósito único são mais limitados, dificultando e até impossibilitando seu uso em tarefas mais complexas. Já as CPUs genéricas podem se sobressair em desempenho sobre NPUs(e, claro, sobre chipsets específicos) em casos de uso complexos, pelo menos em métricas baseadas em classificação de pacotes(DPI – deep packet inspection).</p>
+		<p>A figura abaixo propõe uma análise interessante de desempenho entre diferentes chips quando submetidos a casos de alta complexidade. Em todos os chips, conforme a complexidade de uso cresce, o desempenho de todas as soluções decrescem. Porém, os chipsets de propósito único são mais limitados, dificultando e até impossibilitando seu uso em tarefas mais complexas. Já as CPUs genéricas podem se sobressair em desempenho sobre NPUs(e, claro, sobre chipsets específicos) em casos de uso complexos, pelo menos em métricas baseadas em classificação de pacotes(DPI – deep packet inspection).</p>
 
 		<img src="src/components/ChallengesTab/image06.png" alt="">
 
@@ -21,7 +20,7 @@
 		<p>Tanto a virtualização de alguma função ou serviço sobre alguma infraestrutura quanto a determinação de funções de rede sobre um conjunto de servidores/switches podem favorecer o surgimento de falhas de segurança nos níveis de virtualização do NFV, como também acontecem em sistemas operacionais, cadeias de serviços VNFGs e interface entre funções de rede(NF).</p>
 
 
-		<p>O NFV dispõe diferentes hierarquias de virtualização, que oferecem múltiplos ambientes de execução possíveis(Figura X). Cada ambiente virtualizado possui diferentes níveis de desempenho e isolação (incluindo aspectos de segurança). Sabendo disso, provedores de serviços e operadores de rede que utilizam serviços compartilhados, requisitam como principal funcionalidade o isolamento de desempenho entre suas instâncias a fim de que não tenham seus contratos de SLA(acordo de nível de serviço) violados.</p>
+		<p>O NFV dispõe diferentes hierarquias de virtualização, que oferecem múltiplos ambientes de execução possíveis. Cada ambiente virtualizado possui diferentes níveis de desempenho e isolação (incluindo aspectos de segurança). Sabendo disso, provedores de serviços e operadores de rede que utilizam serviços compartilhados, requisitam como principal funcionalidade o isolamento de desempenho entre suas instâncias a fim de que não tenham seus contratos de SLA(acordo de nível de serviço) violados.</p>
 
 		<img src="src/components/ChallengesTab/image13.png" alt="">
 
